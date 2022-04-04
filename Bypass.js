@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Afaq Fucker ;D
 // @include      novin-system.com
-// @version      0.1
+// @version      8.5
 // @description  Fuck afaq-Lc VisibilityChange listener;D
-// @author       Fucking Great 0Power ;))))
+// @author       Great Fucking 0Power ;))))
 // @icon         https://cdn.discordapp.com/attachments/852999633385816086/955378667159171092/863b1ddc4688dec7fa2a109fa264ed74.jpg
 // @match        *://*/*
 // @grant        none
