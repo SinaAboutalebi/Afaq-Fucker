@@ -17,6 +17,7 @@
 * First of all install TemperMonkey Extension for your web browser.</br>
 [Chrome Users](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)</br>
 [FireFox Users](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)</br>
+[Opera Users](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)</br>
 
 ### Installation
 
